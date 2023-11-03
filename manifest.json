@@ -2,6 +2,15 @@
     "name": "Official (Mirror)",
     "mods": [
         {
+            "id": "halloween_2023",
+            "name": "Halloween 2023",
+            "version": "1.0",
+            "description": "Start event via Cheats - Events",
+            "image": "http://mods.kunoichi-trainer.ninja/images/official/halloween_2023.webp",
+            "game_version": "0.23",
+            "file_name": "halloween_2023.zip"
+        },
+        {
             "id": "christmas_costumes_2022",
             "name": "Christmas Costumes 2022",
             "version": "1.1",
