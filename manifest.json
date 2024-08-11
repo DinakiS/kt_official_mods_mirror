@@ -1,23 +1,63 @@
 {
-    "name": "Official (Mirror)",
+    "name": "Official",
     "mods": [
+        {
+            "id": "hinata_outfit1",
+            "name": "Alternate Hinata's outfit",
+            "version": "1.0",
+            "description": "",
+            "game_version": "0.24",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/hinata_outfit1.webp",
+            "author": "Dinaki",
+            "file_name": "hinata_outfit1.zip"
+        },
+        {
+            "id": "ino_bishamonten",
+            "name": "Bishamonten",
+            "version": "1.0",
+            "description": "Outfit for Ino.",
+            "game_version": "0.24",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/ino_bishamonten.webp",
+            "author": "Dinaki",
+            "file_name": "ino_bishamonten.zip"
+        },
+        {
+            "id": "kitty_ino_hj",
+            "name": "Kitty Ino",
+            "version": "1.0",
+            "description": "Adds cat outfit for Ino.",
+            "game_version": "0.23",
+            "author": "Dinaki",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/kitty_ino.webp",
+            "file_name": "kitty_ino_hj.zip"
+        },
         {
             "id": "halloween_2023",
             "name": "Halloween 2023",
             "version": "1.0",
+            "merge_folders": ["merge"],
             "description": "Start event via Cheats - Events",
-            "image": "http://mods.kunoichi-trainer.ninja/images/official/halloween_2023.webp",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/halloween_2023.webp",
             "game_version": "0.23",
             "file_name": "halloween_2023.zip"
         },
         {
+            "id": "trade_with_everyone",
+            "name": "Trade with Everyone",
+            "version": "1.0",
+            "description": "Adds button that allows to exchange items and change outfit to the person you are talking to",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/trade_with_everyone.webp",
+            "game_version": "0.23",
+            "file_name": "trade_with_everyone.zip"
+        },
+        {
             "id": "christmas_costumes_2022",
             "name": "Christmas Costumes 2022",
-            "version": "1.1",
-            "description": "Outfits for Hinata, Ino, Karin, Sakura, TenTen and Tsunade.\n\nKarin's, Tenten's and Tsunade's costumes can be changed via Cheats.",
+            "version": "1.2",
+            "description": "Outfits for Hinata, Ino, Karin, Sakura, TenTen and Tsunade.\n\nKarin's, Tenten's and Tsunade's costumes can be changed via Cheats.\n\nv1.2\nFixed Tenten costume",
             "game_version": "0.20",
             "author": "Dinaki",
-            "image": "https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/christmas_costumes_2022.webp",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/christmas_costumes_2022.webp",
             "file_name": "christmas_costumes_2022.zip"
         },
         {
@@ -26,7 +66,7 @@
             "version": "1.0",
             "description": "Adds Halloween event.\nEvent can be started via cheats.\n\nPlay after Halloween 2021 event for better expirience.",
             "game_version": "0.20",
-            "image": "https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/halloween_2022.webp",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/halloween_2022.webp",
             "file_name": "halloween_2022.zip"
         },
         {
@@ -42,7 +82,7 @@
                     "description": "Открывает полностью галерею."
                 }
             },
-            "image": "https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/gallery_unlocker.webp",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/gallery_unlocker.webp",
             "file_name": "gallery_unlocker.zip"
         },
         {
@@ -58,7 +98,7 @@
             "id": "nft_tshirts",
             "name": "NFT T-shirts",
             "version": "1.0",
-            "description": "NFT T-shirts for Ino, Hinata and Sakura.\n{image_url=https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/nft.webp}",
+            "description": "NFT T-shirts for Ino, Hinata and Sakura.\n{image_url=https://storage.kunoichi-trainer.ninja/public/mods/images/official/nft.webp}",
             "game_version": "0.15",
             "author": "Dinaki",
             "file_name": "nft_tshirts.zip"
@@ -92,7 +132,7 @@
             "id": "school_costumes",
             "name": "SchoolGirl Costumes",
             "version": "1.0",
-            "description": "Schoolgirl costumes for Ino Hinata and Sakura.\n{image_url=https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/schoolgirls.webp}",
+            "description": "Schoolgirl costumes for Ino Hinata and Sakura.\n{image_url=https://storage.kunoichi-trainer.ninja/public/mods/images/official/schoolgirls.webp}",
             "author": "Maxie & Balisong",
             "game_version": "0.17.1",
             "file_name": "school_costumes.zip"
@@ -119,7 +159,7 @@
             "id": "ahmad153_pack",
             "name": "3 costumes",
             "version": "1.0",
-            "description": "{image_url=https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/ahmad153_pack.jpg}",
+            "description": "{image_url=https://storage.kunoichi-trainer.ninja/public/mods/images/official/ahmad153_pack.jpg}",
             "game_version": "0.15",
             "author": "Ahmad153",
             "file_name": "ahmad153_pack.zip"
@@ -131,7 +171,7 @@
             "description": "Replaces background in menu with Phut Hon video & song",
             "game_version": "0.15",
             "author": "Dinaki",
-            "image": "https://raw.githubusercontent.com/DinakiS/kt_official_mods_mirror/main/screenshots/phut_hon.webp",
+            "image": "https://storage.kunoichi-trainer.ninja/public/mods/images/official/phut_hon.webp",
             "file_name": "bg_phut_hon.zip"
         },
         {
@@ -149,6 +189,15 @@
             "description": "Adds public hair for Ino.",
             "game_version": "0.15",
             "file_name": "pubes.zip"
+        },
+        {
+            "id": "Gachimuchi sounds",
+            "name": "Gachimuchi sounds",
+            "version": "1.0",
+            "description": "Changes all sounds and music in the game to the sounds of ♂GACHI-MUCHI♂",
+            "game_version": "0.16",
+            "author": "Mizumi",
+            "file_name": "gachimuchi_sounds.zip"
         },
         {
             "id": "Sombrero hat",
